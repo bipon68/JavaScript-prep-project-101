@@ -52,6 +52,42 @@
 - [ ] 21 - RandomIdeas App - Backend REST API
 - [ ] 22 - RandomIdeas App - Webpack Frontend
 
+**JavaScript project (webdevsimplified)**
+
+#### Easy
+- [ ] [Form Validation](https://www.youtube.com/watch?v=In0nB0ABaUk)
+- [ ] [Light/Dark Theme Toggle](https://www.youtube.com/watch?v=RiWxhm5ZdFM)
+- [ ] [Google Maps Clone](https://www.youtube.com/watch?v=OySigNMXOZU)
+- [ ] [Analog Clock](https://www.youtube.com/watch?v=Ki0XXrlKlHY)
+- [ ] [Impossible To Click Button](https://www.youtube.com/watch?v=UiA4X60Qe1E)
+- [ ] [Simple Tabs](https://www.youtube.com/watch?v=5L6h_MrNvsk)
+- [ ] [Rock Paper Scissors Game](https://www.youtube.com/watch?v=1yS-JV4fWqY)
+- [ ] [Text To Speech](https://www.youtube.com/watch?v=nx_k1XCaWWs)
+- [ ] [Eye Tracking Program](https://www.youtube.com/watch?v=6s2Ug-eVpVc)
+- [ ] [Expandable Content](https://blog.webdevsimplified.com/2020-01/dynamic-expandable-content/)
+- [ ] [Modal](https://www.youtube.com/watch?v=MBaw_6cPmAw)
+#### Medium
+- [ ] [Password Strength Tester](https://www.youtube.com/watch?v=7-1VZ2wF8pw)
+- [ ] [Password Generator](https://www.youtube.com/watch?v=iKo9pDKKHnc)
+- [ ] [Quiz App](https://www.youtube.com/watch?v=riDzcEQbX6k)
+- [ ] [Card Game](https://www.youtube.com/watch?v=NxRwIZWjLtE)
+- [ ] [Snake Game](https://www.youtube.com/watch?v=QTcIXok9wNY)
+- [ ] [AI Face Detection](https://www.youtube.com/watch?v=CVClHLwv-4I)
+- [ ] [AI Face Recognition](https://www.youtube.com/watch?v=AZ4PdALMqx0)
+- [ ] [Thanos Snap Effect](https://www.youtube.com/watch?v=DFUtrSsIIiI)
+- [ ] [Sortable Drag And Drop](https://www.youtube.com/watch?v=jfYWwQrtzzY)
+- [ ] [Speed Typing Game](https://www.youtube.com/watch?v=R-7eQIHRszQ)
+- [ ] [Tic Tac Toe](https://www.youtube.com/watch?v=Y-GkMjUZsmM)
+- [ ] [Browser Based Guitar Amp](https://www.youtube.com/watch?v=eEeUFB1iIDo)
+- [ ] [Text Adventure Game](https://www.youtube.com/watch?v=R1S_NhKkvGA)
+#### Hard
+- [ ] [Custom Select Dropdown](https://www.youtube.com/watch?v=Fc-oyl31mRI)
+- [ ] [Calculator](https://www.youtube.com/watch?v=j59qQ7YWLxw)
+- [ ] [Card Matching Game](https://www.youtube.com/watch?v=28VfzEiJgy4)
+- [ ] [Advanced Todo List](https://www.youtube.com/watch?v=W7FaYfuwu70)
+- [ ] [Mars Weather App](https://www.youtube.com/watch?v=MDENx86nK4k)
+- [ ] [Battleship Clone](https://www.youtube.com/watch?v=G6JTM-zt-dQ)
+
 ### Reference
 
 - [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
