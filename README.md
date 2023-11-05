@@ -7,26 +7,26 @@
 
 **Fundamentals**
 - [x] 01 Introduction
-- [ ] 02 1 Form Validator  Intro Project
-- [ ] 03 2 Movie Seat Booking  DOM  Local Storage
-- [ ] 04 3 Custom Video Player  HTML5 Video API
-- [ ] 05 4 Exchange Rate Calculator  Fetch  JSON Intro
-- [ ] 06 5 DOM Array Methods  forEach map filter sort reduce
-- [ ] 07 6 Menu Slider  Modal  DOM  CSS
-- [ ] 08 7 Hangman Game  DOM SVG Events
-- [ ] 09 8 Meal Finder  Fetch  MealDB API
-- [ ] 10 9 Expense Tracker  Array Methods  Local Storage
-- [ ] 11 10 Music Player  HTML5 Audio API
-- [ ] 12 11 Infinite Scroll Posts  Fetch AsyncAwait CSS Loader
-- [ ] 13 12 Typing Game  DOM Intervals Events
-- [ ] 14 13 Speech Text Reader  Speech Synthesis
-- [ ] 15 14 Memory Cards  CSS Effects Local Storage
-- [ ] 16 15 Lyrics Search App  Fetch Pagination Lyrics.ovh API
-- [ ] 17 16 Relaxer App  CSS Animations setTimeout
-- [ ] 18 17 Breakout Game  HTML5 Canvas API
-- [ ] 19 18 New Year Countdown  DOM Date  Time
-- [ ] 20 19 Sortable List  Drag  Drop API
-- [ ] 21 20 Speak Number Guessing Game  Speech Recognition
+- [ ] 02 - Form Validator  Intro Project
+- [ ] 03 - Movie Seat Booking  DOM  Local Storage
+- [ ] 04 - Custom Video Player  HTML5 Video API
+- [ ] 05 - Exchange Rate Calculator  Fetch  JSON Intro
+- [ ] 06 - DOM Array Methods  forEach map filter sort reduce
+- [ ] 07 - Menu Slider  Modal  DOM  CSS
+- [ ] 08 - Hangman Game  DOM SVG Events
+- [ ] 09 - Meal Finder  Fetch  MealDB API
+- [ ] 10 - Expense Tracker  Array Methods  Local Storage
+- [ ] 11 - Music Player  HTML5 Audio API
+- [ ] 12 - Infinite Scroll Posts  Fetch AsyncAwait CSS Loader
+- [ ] 13 - Typing Game  DOM Intervals Events
+- [ ] 14 - Speech Text Reader  Speech Synthesis
+- [ ] 15 - Memory Cards  CSS Effects Local Storage
+- [ ] 16 - Lyrics Search App  Fetch Pagination Lyrics.ovh API
+- [ ] 17 - Relaxer App  CSS Animations setTimeout
+- [ ] 18 - Breakout Game  HTML5 Canvas API
+- [ ] 19 - New Year Countdown  DOM Date  Time
+- [ ] 20 - Sortable List  Drag  Drop API
+- [ ] 21 - Speak Number Guessing Game  Speech Recognition
 
 **Modern JavaScript From The Beginning 2.0**
 - [x] 01 Introduction
